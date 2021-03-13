@@ -127,7 +127,7 @@ The current revision status of the master branch and any development branches is
 
 | Branch             | Revision                               | Status
 | ------------------ | -------------------------------------- | -----------------------------
-| **master** | **D0001** | Hardware build &mdash; Workspace established
+| **master** | **D0002** | Hardware build &mdash; Workspace established
 
 
 
