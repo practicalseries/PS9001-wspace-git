@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2021-03-19T10:42:25.3141515Z</Created>
+    <Created>2021-03-19T14:27:15.418879Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -2077,7 +2077,7 @@ The following shows a typical deployment of FC02001:
     <Access Scope="LiteralConstant" UId="24">
       <Constant>
         <ConstantType>String</ConstantType>
-        <ConstantValue>'000.801'</ConstantValue>
+        <ConstantValue>'001.000'</ConstantValue>
       </Constant>
     </Access>
     <Access Scope="LocalVariable" UId="25">
@@ -2199,6 +2199,9 @@ The MIT licence is reproduced in full in the last network of this software modul
  DATE       REVISION            MASTER BRANCH      DEV
          (nnn.amm)   COMMIT TAG    (Base ---> Merge)    BRANCH   Author
  ———————————————————————————————————————————
+ 2021.02.18    001.000   D0002A-001.000   D0002 N/A     D0002B   M. Gledhill
+                       FC02001 Migration to VCS — Released for test
+
  2021.02.18    000.801   D0002A-000.801   D0002 N/A     D0002B   M. Gledhill
                        FC02001 Migration to VCS — Released for test
  ———————————————————————————————————————————
