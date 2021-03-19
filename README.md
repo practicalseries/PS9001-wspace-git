@@ -127,8 +127,8 @@ The current revision status of the master branch and any development branches is
 
 | Branch             | Revision                               | Details                       | Status
 | ------------------ | -------------------------------------- | ----------------------------- | -----------------------------
-| **master** | **D0003** | FC01001 Released for use | **Active**
-| D0002A-FC01001 | D0002A-001.00 | FC01001 VCS Migration — Released for use | Closed
+| **master** | **D0004** | FC02001 Released for use | **Active**
+| D0002A-FC01001 | D0002A-001.000 | FC01001 VCS Migration — Released for use | Closed
 | D0002B-FC01001 | D0002B-001.000 | FC02001 VCS Migration — Released for use | Closed
 
 
