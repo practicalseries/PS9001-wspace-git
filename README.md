@@ -129,7 +129,7 @@ The current revision status of the master branch and any development branches is
 | ------------------ | -------------------------------------- | ----------------------------- | -----------------------------
 | **master** | **D0003** | FC01001 Released for use | **Active**
 | D0002A-FC01001 | D0002A-001.00 | FC01001 VCS Migration — Released for use | Closed
-
+| D0002B-FC01001 | D0002B-001.000 | FC02001 VCS Migration — Released for use | Closed
 
 
 The full workflow for the project is shown in the [Software Control](#5--software-control) section of this document.

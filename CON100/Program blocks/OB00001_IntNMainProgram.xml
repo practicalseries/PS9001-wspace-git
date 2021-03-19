@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2021-03-19T11:44:58.2183912Z</Created>
+    <Created>2021-03-19T14:27:15.2008974Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -254,6 +254,9 @@ COMPLETED MODULES
  FC01001 StdSysGlobalData      001.000   UT 01000   001.000    UT 21000   001.000
                  2021-02-18   UT 01001   001.000    UT 21000   001.000 
                           None           DB21000   001.000
+ ――――――――――――――――――――――――――――――――――――――――――
+ FC02001 StdInstAnalogRead    001.000      UT 02001   001.000    UT 22001   001.000
+                 2021-02-18   DB02001   001.000    DB22001   001.000
  ――――――――――――――――――――――――――――――――――――――――――
  FC61000 DocGenExample     001.000   None           None 
                  2021.02.18   None           None          
