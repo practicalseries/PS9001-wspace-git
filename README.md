@@ -127,8 +127,8 @@ The current revision status of the master branch and any development branches is
 
 | Branch             | Revision                               | Details                       | Status
 | ------------------ | -------------------------------------- | ----------------------------- | -----------------------------
-| **master** | **D0002** | Hardware build &mdash; Workspace established | Active
-| **D0002A-FC01001** | **D0002A-001.00** | FC01001 VCS Migration — Released for use | Active
+| **master** | **D0003** | FC01001 Released for use | **Active**
+| D0002A-FC01001 | D0002A-001.00 | FC01001 VCS Migration — Released for use | Closed
 
 
 
