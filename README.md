@@ -125,10 +125,10 @@ The current revision status of the master branch and any development branches is
 
 ## 2.1.&emsp;&emsp;Branch revision status
 
-| Branch             | Revision                               | Status
-| ------------------ | -------------------------------------- | -----------------------------
-| **master** | **D0002** | Hardware build &mdash; Workspace established
-| **D0002B-FC02001** | **D0002B-000.801** | FC02001 VCS Migration - Test build
+| Branch             | Revision                               | Details                       | Status
+| ------------------ | -------------------------------------- | ----------------------------- | -----------------------------
+| **master** | **D0002** | Hardware build &mdash; Workspace established | **Active**
+| **D0002B-FC01001** | **D0002B-001.000** | FC02001 VCS Migration — Released for use | **Active**
 
 
 The full workflow for the project is shown in the [Software Control](#5--software-control) section of this document.
